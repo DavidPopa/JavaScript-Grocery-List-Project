@@ -7,10 +7,8 @@ btn.addEventListener("click", (e) => {
   e.preventDefault();
   if (inputText.value != "") {
     //create li
-    const ul = document.createElement("ul");
     const myLi = document.createElement("li");
     myLi.innerHTML = inputText.value;
-    list.appendChild(ul);
     list.appendChild(myLi);
 
     //create span
