@@ -1,4 +1,4 @@
-"use strit";
+"use strict";
 const inputText = document.querySelector("#txt");
 const btn = document.querySelector(".btn-list");
 const list = document.querySelector(".container");
