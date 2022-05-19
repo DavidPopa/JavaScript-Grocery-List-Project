@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "..\\gr-list"
+	},
+	{
+		"path": "."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "JavaScript-Grocery-List-Project"
+  }
+}
